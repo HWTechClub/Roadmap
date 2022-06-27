@@ -5,7 +5,7 @@ on what HW Tech Club should work. We will run these ideas through our team and t
 approved ones will be added to the list.
 
 ## Make a proporsal
-Create an feature request Issue 
+Create an [Feature Request Issue](https://github.com/HWTechClub/Roadmap/issues/new?assignees=&labels=&template=feature_request.md&title=) 
 ```
 Issues/new issue
 ``` 
